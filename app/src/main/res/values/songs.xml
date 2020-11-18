@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Overexposed">
+        <item>One More Night</item>
+        <item>Girls Like You</item>
+        <item>She Will Be Loved</item>
+        <item>Daylight</item>
+        <item>Lucky Strike</item>
+        <item>Memories</item>
+        <item>Payphone</item>
+    </string-array>
+
+    <string-array name="Teenage_Dream">
+        <item>Part of Me</item>
+        <item>Teenage Dream</item>
+        <item>Last Friday Night(T.G.I.F)</item>
+        <item>The One That Got Away</item>
+        <item>Dark Horse</item>
+        <item>Thinking of You</item>
+        <item>Roar</item>
+    </string-array>
+
+    <string-array name="Yonce">
+        <item>Pretty Hurts</item>
+        <item>Drunk In Love</item>
+        <item>Partition</item>
+        <item>Halo</item>
+        <item>Listen</item>
+    </string-array>
+
+    <string-array name="Purpose">
+        <item>Holy</item>
+        <item>Company</item>
+        <item>Love Yourself</item>
+        <item>Sorry</item>
+        <item>What Do You Mean?</item>
+        <item>10,000 Hours</item>
+    </string-array>
+
+    <string-array name="Jovi">
+        <item>Livin' On A Prayer</item>
+        <item>Never Say Goodbye</item>
+        <item>Wild In The Streets</item>
+        <item>I'd Die For You</item>
+    </string-array>
+
+</resources>
