@@ -36,9 +36,9 @@ class albumAdapter(val c : Context) : BaseAdapter(){
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
         val imageView = ImageView(mContext)
-        imageView.setLayoutParams(GridView@ AbsListView.LayoutParams(600, 400))
+        imageView.setLayoutParams(GridView@ AbsListView.LayoutParams(300, 300))
         imageView.scaleType = ImageView.ScaleType.CENTER_CROP
-        imageView.setPadding(30, 30, 30, 30)
+        imageView.setPadding(20, 20, 20, 20)
         imageView.setImageResource(thumImages[position])
         return imageView
     }
