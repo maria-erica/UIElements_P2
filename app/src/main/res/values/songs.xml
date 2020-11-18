@@ -38,10 +38,10 @@
     </string-array>
 
     <string-array name="Jovi">
-        <item>Livin' On A Prayer</item>
+        <item>Livin\' On A Prayer</item>
         <item>Never Say Goodbye</item>
         <item>Wild In The Streets</item>
-        <item>I'd Die For You</item>
+        <item>I\'d Die For You</item>
     </string-array>
 
 </resources>
